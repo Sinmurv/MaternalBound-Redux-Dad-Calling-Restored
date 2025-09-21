@@ -1,4 +1,4 @@
-RESTORES DAD CALLING YOU TO RAKE A REST; I found this feature to be quite charming and was bummed that it was removed in MaternalBound Redux V1.1. It's restored here. Download Coilsnake and reb-build the project with your ROM file. 
+RESTORES DAD CALLING YOU TO TAKE A REST; I found this feature to be quite charming in the original and was bummed that it was removed in MaternalBound Redux V1.1. It's restored here. Download Coilsnake and reb-build the project with your ROM file. 
 
 
 ![MaternalBound Redux Logo](https://i.imgur.com/331VwHb.png)
