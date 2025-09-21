@@ -331,8 +331,7 @@ l_0xc7d2f6:
     "{sound(11)}  Click!  Beep-beep-beep..." end
 
 l_0xc7d33e:
-    eob		// Disable Dad from calling you after a while
-    //"[06 49 00 {e(data_55.l_0xc9992f)}]{music(115)}{pause(60)}{wait}[1F 01 00]{sound(11)}[06 10 00 {e(l_0xc7d36e)}][06 95 00 {e(l_0xc7d4af)}][06 0E 00 {e(l_0xc7d36e)}][06 80 00 {e(l_0xc7d627)}]" goto(l_0xc7d36e)
+    "[06 49 00 {e(data_55.l_0xc9992f)}]{music(115)}{pause(60)}{wait}[1F 01 00]{sound(11)}[06 10 00 {e(l_0xc7d36e)}][06 95 00 {e(l_0xc7d4af)}][06 0E 00 {e(l_0xc7d36e)}][06 80 00 {e(l_0xc7d627)}]" goto(l_0xc7d36e)
 
 l_0xc7d36e:
     "{window_open(1)}[19 10 01]{result_is(1)}[1B 02 {e(l_0xc7d630)}]"
